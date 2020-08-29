@@ -17,12 +17,6 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "One paper is accepted by IoTDI 2020"
-  date_start = "2020-01-15"
-  date_end = ""
-
-  """
 
 [[experience]]
   title = "Professor"
