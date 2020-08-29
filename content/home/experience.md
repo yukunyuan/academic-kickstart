@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   date_start = "2020-01-15"
-  date_end = ""
+  
   description = """"""
 
 +++
